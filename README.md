@@ -2,6 +2,8 @@
 
 SSC(Simple String Cache) is a single node in-memory string-based key-value storage micro service. if you're looking for a simpler Redis alternative, This could be it.
 
+You can preview the App here: https://simple-string-cache.herokuapp.com/swagger-ui.html#/   (Due to Heroku policy, first visit will take some "warm up" time)
+
 ![Simple String Cache](https://tva1.sinaimg.cn/large/008eGmZEgy1gmqr4iclp6j313y0ml768.jpg)
 
 ## Usage guide
